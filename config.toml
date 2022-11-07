@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://tmsktn.github.io'
 languageCode = 'en-us'
 title = 'TmsKtn Blog'
 theme = "beautifulhugo"
